@@ -1,0 +1,7 @@
+requests
+BeautifulSoup
+pandas
+yfinance
+logging
+sqlalchemy
+pyodbc
